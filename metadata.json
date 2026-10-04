@@ -1,0 +1,8 @@
+{
+  "name": "SAMTA SCHOOL MANAGEMENT",
+  "description": "SAMTA School Management System with Principal, Teacher, and Student/Parent portals, dual biometric and geofenced attendance, and classroom operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
